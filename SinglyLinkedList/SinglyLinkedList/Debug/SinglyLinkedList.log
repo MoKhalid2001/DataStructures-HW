@@ -1,0 +1,3 @@
+﻿  SinglyLinkedList.cpp
+F:\Data Structures\SinglyLinkedList\SinglyLinkedList\SinglyLinkedList.cpp(188): warning C4715: 'LinkedList::max_value': not all control paths return a value
+  SinglyLinkedList.vcxproj -> F:\Data Structures\SinglyLinkedList\Debug\SinglyLinkedList.exe

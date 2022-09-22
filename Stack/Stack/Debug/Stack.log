@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+F:\Data Structures\Stack\Stack\Stack.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+F:\Data Structures\Stack\Stack\Stack.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  Stack.vcxproj -> F:\Data Structures\Stack\Debug\Stack.exe
